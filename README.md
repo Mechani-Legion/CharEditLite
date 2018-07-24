@@ -48,8 +48,8 @@ A little mod for saving, loading or editing the appearance of the characters and
 - Code field: Can contain the code of the in game character or mirror character or notepad/txt character.
   - The code can be copied from the field to notepad/txt, and vice versa.
   - Manually set code: If valid, its informations and preview are displayed.
-- Using editor: Checking values and update code.
-  - Button "Create shard":
+  - Using editor: Checking values and update code.
+- Button "Create shard":
   - Put a shard in the inventory with the appearance of the preview stored on it.
   - Shard can be created with different appearances without using the button "Apply" of the mirror.
 
