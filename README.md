@@ -4,7 +4,7 @@ Mod for Conan Exiles
 A little mod for saving, loading or editing the appearance of the characters and thralls (for solo/coop and server).
 
 
-# Summary & manual
+## Summary & manual
 
 **Features:**
 -Full character editor.
