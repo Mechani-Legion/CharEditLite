@@ -18,7 +18,6 @@ A little mod for saving, loading or editing the appearance of the characters and
 - Checking and auto-correction of the edited character.
 - Test Lab for experimental features (RGB for character).
 - Good compatibility with others mods. Automatic addition of their customisation features.
-- Debug_Of_Warpaint included.
 
 **Complementary info:**
 - Mod ID: 1366358141
