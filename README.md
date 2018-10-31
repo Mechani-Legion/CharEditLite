@@ -16,7 +16,7 @@ A little mod for saving, loading or editing the appearance of the characters and
 - Full RGB color choice for shard creation.
 - The thralls can be changed with shards.
 - Checking and auto-correction of the edited character.
-- Test Lab for experimental features (RGB for character).
+- RGB Lab to unlock all colors as temporary dye (can be saved).
 - Good compatibility with others mods. Automatic addition of their customisation features.
 
 **Complementary info:**
@@ -32,8 +32,9 @@ A little mod for saving, loading or editing the appearance of the characters and
 - The shard can edit its stored appearance when placed in the character inventory.
 - The shard show available customisations and can select which one to use.
 - In case of religion changing. If you want to update the recipes, you need to use a yellow lotus potion.
-- Auto-correction is based on vanilla values, but they can be altered by others mods.
-- Scalars values can be chosen between vanilla and modded.
+- Auto-correction is based on vanilla values or extended, but they can be altered by others mods.
+- Scalars values can be chosen between vanilla, extended and modded.
+- RGB Lab and extended scalars must be unlocked by admin or host.
 - Old generated code can be invalidated by game update.
 
 **How to be Admin:**
