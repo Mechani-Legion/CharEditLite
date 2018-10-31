@@ -34,7 +34,7 @@ A little mod for saving, loading or editing the appearance of the characters and
 - In case of religion changing. If you want to update the recipes, you need to use a yellow lotus potion.
 - Auto-correction is based on vanilla values or extended, but they can be altered by others mods.
 - Scalars values can be chosen between vanilla, extended and modded.
-- RGB Lab and extended scalars must be unlocked by admin or host.
+- RGB Lab and extended scalars must be unlocked by the admin or the host.
 - Old generated code can be invalidated by game update.
 
 **How to be Admin:**
