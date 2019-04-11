@@ -17,7 +17,7 @@ A little mod for saving, loading or editing the appearance of the characters and
 - The thralls can be changed with shards.
 - Checking and auto-correction of the edited character.
 - RGB Lab to unlock all colors as temporary dye (can be saved).
-- Good compatibility with others mods. Automatic addition of their customisation features.
+- Good compatibility with others mods. Automatic addition of some customisation features.
 
 **Complementary info:**
 - Mod ID: 1366358141
@@ -63,7 +63,8 @@ A little mod for saving, loading or editing the appearance of the characters and
 
 **Shard panel: Render of the shard or target appearance and of the final appearance according to the choices.**
 - Interaction: Same as the mirror.
-- Upper checkbox: Only for station thralls, the warpaint and outfit of the shard can be apply to them. The appearance of the shard can also be ignored in these cases.
+- Upper checkbox: Only for station thralls, the warpaint (exception) and outfit of the shard can be apply to them. The appearance of the shard can also be ignored in these cases.
+(exception) Warpaints appearance can be shared with everyone, but is permanent only for station thralls.
 - Lower checkbox: Enable or disable the customisation option if available.
 - Edit mod: Only available in the character inventory.
   - Switch warpainnt: Change the warpaint according to the character.
