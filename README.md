@@ -4,6 +4,11 @@ Mod for Conan Exiles
 A little mod for saving, loading or editing the appearance of the characters and thralls (for solo/coop and server).
 
 
+**Warning**
+
+To be used with the DevKit, the contents of the source folder must be copied into "CharEditLite" and placed into "...\ConanExilesEditor\Games\ConanSandbox\Content\Mods\".
+
+
 ## Summary & manual
 
 **Features:**
