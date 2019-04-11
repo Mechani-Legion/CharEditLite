@@ -1,16 +1,16 @@
 {
 	"name": "CharEditLite",
-	"description": "A little mod for saving, loading or editing the appearance of the characters and thralls (for solo/coop and server).\n\nInfo:\n- The mod is triggered by an item named \"Mirror\". Crafted at Artisan's Worktable.\n- The mirror gives a code or can create an item named \"Shard\" for the management of appearances.\n- Full editor, HD preview. Customisation rights management (admin).\n- Good compatibility with others mods. Automatic addition of their customisation features.",
+	"description": "A little mod for saving, loading or editing the appearance of the characters and thralls (for solo/coop and server).\n\nInfo:\n- The mod is triggered by an item named \"Mirror\". Crafted at Artisan's Worktable.\n- The mirror gives a code or can create an item named \"Shard\" for the management of appearances.\n- Full editor, HD preview. Customisation rights management (admin).\n- Good compatibility with others mods. Automatic addition of some customisation features.",
 	"changeNote": "",
 	"author": "Mechani aka Legion",
 	"authorUrl": "https://github.com/Mechani-Legion/",
 	"versionMajor": 6,
-	"versionMinor": 6,
+	"versionMinor": 7,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1366358141",
 	"steamVisibility": 0,
 	"folderName": "CharEditLite",
-	"revisionNumber": 116512,
-	"snapshotId": 20221
+	"revisionNumber": 126893,
+	"snapshotId": 20805
 }
