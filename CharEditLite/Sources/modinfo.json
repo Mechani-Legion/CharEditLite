@@ -5,12 +5,12 @@
 	"author": "Mechani aka Legion",
 	"authorUrl": "https://github.com/Mechani-Legion/",
 	"versionMajor": 6,
-	"versionMinor": 7,
+	"versionMinor": 8,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1366358141",
 	"steamVisibility": 0,
 	"folderName": "CharEditLite",
-	"revisionNumber": 126893,
-	"snapshotId": 20805
+	"revisionNumber": 143665,
+	"snapshotId": 21724
 }
